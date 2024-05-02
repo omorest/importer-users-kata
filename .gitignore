@@ -1,0 +1,7 @@
+/nbproject
+/ruby/nbproject
+.idea
+.classpath
+typescript/node_modules
+typescript/dist
+typescript/coverage
